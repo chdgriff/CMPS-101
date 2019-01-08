@@ -1,0 +1,12 @@
+README - Table of contents of files submitted
+Chris Griffis <chdgriff>
+pa2
+
+  List.h - Doubly linked list header
+  List.c - Implementation of doubly linked list
+  ListTest.c - Tests of doubly linked list
+  ListClient.c - Given client of linked list
+  Lex.c - Sorts lines of a file given in program arguments
+  Makefile - compiles, cleans and runs project
+  README - Lists files submitted
+  

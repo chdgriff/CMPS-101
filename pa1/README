@@ -1,0 +1,8 @@
+README - Table of contents for files submitted
+Chris Griffis <chdgriff>
+
+	List.java - Doubly linked list ADT
+	ListClient.java - Simple test for list ADT
+	Lex.java - Takes input and output file in command line and sorts a text file by line.
+	Makefile - compiles, cleans, and submits files
+	README - details file to be submitted

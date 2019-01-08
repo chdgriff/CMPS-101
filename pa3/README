@@ -1,0 +1,10 @@
+README - Table of contents of files submitted
+Chris Griffis <chdgriff>
+pa3
+
+	Sparse.java - takes in command line and performs matrix operations on them
+	Matrix.java - contains matrix format and various operations
+	List.java - doubly linked list ADT
+	MatrixTest.java - Tests Matrix.java
+	ListTest.java - Tests List.java ADT
+	Makefile - compiles, cleans, and submits files

@@ -1,0 +1,26 @@
+README
+Chris Griffis <chdgriff>
+pa5
+
+Files to be submitted:
+  README - Files to be submitted and notes to grader
+  Makefile - compiles and submits files
+  List.c - List ADT implementation from pa4
+  List.h - List ADT from pa4
+  Graph.h - Header file for DFS based Graph
+  Graph.c - implementation for Graph with some methods taken from pa4
+  GraphTest.c - Personal code to test Graph.c
+  FindComponents.c - finds strongly connected components on commandline files
+  
+  Notes to Grader:
+    Took some things from my pa4 as they overlap:
+      List.c
+      List.h
+      Graph.c:
+        insertEdge()
+        addEdge()
+        addArc()
+        printGraph()
+      FindComponents:
+      	Reading input file
+        

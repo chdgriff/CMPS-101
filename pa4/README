@@ -1,0 +1,14 @@
+README
+Chris Griffis <chdgriff>
+pa4
+
+Files Submitted
+  FindPath.c - Uses both Graph and List ADTs to find shorted path for inputed edges
+  Graph.h - Header file for Graph ADT
+  Graph.c - Implements Graph ADT
+  GraphTest.c - Tests Graph ADT
+  List.h - Header file for List ADT
+  List.c - Implements List ADT
+  Makefile - compiles, checks, and submits files
+  README - Lists files to be submitted
+ 
